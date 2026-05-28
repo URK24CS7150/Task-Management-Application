@@ -1,1 +1,20 @@
 # Task-Management-Application
+
+OMPANY:THIRANEX
+
+NAME:G.LAKSHMI NARAYANA REDDY
+
+INTERN ID:THX-MAY2126-576
+
+DOMAIN:JAVA FULL STACK DEVELOPMENT
+
+DURATION:4 WEEKS
+
+HR MANAGER : Keerthana S
+
+Overview of the Project
+
+Task 2:Task Management Application
+
+OUTPUTS:
+
